@@ -23,11 +23,11 @@ Mitigation 4 (Project): Strictly adhere to the Agile Sprint plan and enforce the
 Risk Matrix
 (Note: Score = Likelihood x Impact. Scale: 1-Low, 3-Medium, 5-High)
 
-Risk ID Risk Description                  Likelihood (1-5) Impact (1-5) Risk Score Risk Level
-R01     Poor weather reducing CV accuracy 4                4            16         High
-R02     IP Camera offline/failure         2                5            10         Medium
-R03     High API latency / Dashboard lag  3                3            9          Medium
-R04     Failure to deliver MVP on time    2                5            10         Medium
+Risk ID,Risk Description,Likelihood (1-5),Impact (1-5),Risk Score,Risk Level
+R01,Poor weather reducing CV accuracy,4,4,16,High
+R02,IP Camera offline/failure,2,5,10,Medium
+R03,High API latency / Dashboard lag,3,3,9,Medium
+R04,Failure to deliver MVP on time,2,5,10,Medium
 
 
 Validation and Testing Plan
